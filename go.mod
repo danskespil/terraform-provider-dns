@@ -1,4 +1,4 @@
-module github.com/hashicorp/terraform-provider-dns
+module github.com/danskespil/terraform-provider-dns
 
 require (
 	github.com/bodgit/tsig v1.2.0
