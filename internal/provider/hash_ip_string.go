@@ -3,7 +3,7 @@ package provider
 import (
 	"net"
 
-	"github.com/danskespil/terraform-provider-dns/internal/hashcode"
+	"github.com/hashicorp/terraform-provider-dns/internal/hashcode"
 )
 
 func hashIPString(v interface{}) int {
